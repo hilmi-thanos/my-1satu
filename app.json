@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "my-1satu",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "my-1satu",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
